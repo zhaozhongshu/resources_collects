@@ -212,3 +212,22 @@ A Free Cross-platform Multi-protocol VPN Software, developed by SoftEther VPN Pr
 ## socks5_c
 https://github.com/hmgle/socks5_c
 一个轻量级的 socks5 代理, 带简单加密传输功能, 可穿透 GFW
+
+## wke
+3D Web UI. Web and Flash Embedded in 3D games, based on WebKit http://wke.sf.net
+https://github.com/BlzFans/wke
+webkit的深度裁剪，差不多2MB左右，用于嵌入网页和flash
+
+## Torque3D
+一款3D游戏引擎
+https://github.com/GarageGames/Torque3D
+
+## NTLM Authorization Proxy Server
+NTLM认证代理服务器
+http://ntlmaps.sourceforge.net/
+
+## 3proxy
+3Proxy tiny free proxy server is really tiny cross-platform (Win32/Win64&Unix) freeware proxy servers set. It includes HTTP proxy with HTTPS and FTP support, SOCKSv4/SOCKSv4.5/SOCKSv5 proxy (socks/socks.exe), POP3 proxy, SMTP proxy, AIM/ICQ proxy (icqpr/icqpr.exe), MSN messenger / Live messenger proxy (msnpr/msnpr.exe), FTP proxy, caching DNS proxy, TCP and UDP portmappers.
+
+## Cntlm
+对于那些使用NTLM进行身份验证的网络代理环境（即设置上除需要代理主机和端口之外还需要提供域用户和密码）来说，通过代理上网是一件头痛的事情，这主要是因为很多软件不支持NTLM验证的代理（比如目前的GIT就不能支持NTLM验证，即使在代理中指定了域帐号和密码，在连接过程中依然报： Received HTTP code 407 from proxy after CONNECT ，说明验证并未通过），如果有这样一种工具能封装NTLM验证然后对外提供普通的HTTP代理服务，那么第三方应用就可以通过配置普通的代理访问网络了，这就是Cntlm (项目官网：http://cntlm.sourceforge.net/）所要解决的问题！ 由于Cntlm也有linux版本，这意味着在linux系统上通过NTLM身份验证的网络代理也是可行的。本文原文出
